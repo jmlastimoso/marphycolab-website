@@ -5,7 +5,7 @@
     <link>/tags/seaweed-biodiversity/</link>
       <atom:link href="/tags/seaweed-biodiversity/index.xml" rel="self" type="application/rss+xml" />
     <description>Seaweed biodiversity</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Marine Phycology Laboratory, UP-MSI</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Marine Phycology Laboratory, UP-MSI</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Seaweed biodiversity</title>
@@ -33,6 +33,38 @@
       <link>/project/phdia/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/phdia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biodiversity of cryptic marine brown algae</title>
+      <link>/project/inhouse/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/inhouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA barcoding of the ***Sargassum*** (Phaeophyceae) resources of northern Philippines</title>
+      <link>/project/ecwrg/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/ecwrg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New records of Rosenvingea (Scytosiphonaceae, Phaeophyceae) from the Philippines</title>
+      <link>/publication/journal-article-1-rosenvingea/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article-1-rosenvingea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proposals to recognize Petalonia tenella comb. nov. and to resurrect Hapterophycus canaliculatus (Scytosiphonaceae, Phaeophyceae)</title>
+      <link>/publication/journal-article-2-petalonia/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article-2-petalonia/</guid>
       <description></description>
     </item>
     

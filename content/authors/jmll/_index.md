@@ -1,7 +1,7 @@
 ---
 authors:
 - jmll
-bio: "ye"
+bio: ""
 education:
   courses:
   - course: "BSc in Biology, 2017"

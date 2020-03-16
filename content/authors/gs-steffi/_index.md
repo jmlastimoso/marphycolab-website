@@ -1,7 +1,7 @@
 ---
 authors:
 - smja
-bio: "ye"
+bio: ""
 education:
   courses:
   - course: "BSc in Biology, 2018"
@@ -19,7 +19,7 @@ social:
   icon_pack: ai
   link: https://www.researchgate.net/profile/Steffi_Mari_Arceta
 conference papers:
-superuser: true
+superuser: false
 user_groups:
 - Grad Students
 ---

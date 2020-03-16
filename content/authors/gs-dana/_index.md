@@ -1,7 +1,7 @@
 ---
 authors:
 - damdj
-bio: "ye"
+bio: ""
 education:
   courses:
   - course: "BSc in Biology, 2019"
