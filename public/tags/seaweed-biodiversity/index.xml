@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seaweed biodiversity | Marine Phycology Laboratory</title>
+    <link>/tags/seaweed-biodiversity/</link>
+      <atom:link href="/tags/seaweed-biodiversity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Seaweed biodiversity</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Marine Phycology Laboratory, UP-MSI</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Seaweed biodiversity</title>
+      <link>/tags/seaweed-biodiversity/</link>
+    </image>
+    
+    <item>
+      <title>Diversity, systematics, and molecular phylogeny of Philippine Dictyotales (Phaeophyceae, Ochrophyta)</title>
+      <link>/project/balik-phd/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/balik-phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting the systematics of the family Scytosiphonaceae (Ectocarpales, Phaeophyceae)</title>
+      <link>/project/wjes-phd-cont/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/wjes-phd-cont/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Establishing reference culture collections for marine macroalgae (seaweeds)</title>
+      <link>/project/phdia/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/phdia/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

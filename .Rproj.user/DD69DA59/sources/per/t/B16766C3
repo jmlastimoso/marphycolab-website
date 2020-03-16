@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584331950724.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2529026074",
+    "id" : "B16766C3",
+    "lastKnownWriteTime" : 1581733221,
+    "last_content_update" : 1581733221,
+    "path" : "~/marinephycolab-website/content/slides/example/index.md",
+    "project_path" : "content/slides/example/index.md",
+    "properties" : {
+        "cursorPosition" : "23,24",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

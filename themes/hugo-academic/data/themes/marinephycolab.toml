@@ -1,0 +1,18 @@
+# Theme metadata
+name = "MarPhycoLab"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#0054a6"
+
+# Menu
+menu_primary = "#04365e" # 500
+menu_text = "#fff"
+menu_text_active = "#f9bb06" # A100
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"

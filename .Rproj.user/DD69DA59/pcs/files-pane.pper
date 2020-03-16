@@ -1,0 +1,9 @@
+{
+    "path" : "~/marinephycolab-website/content/home",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
