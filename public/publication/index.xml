@@ -7,24 +7,64 @@
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Marine Phycology Laboratory, UP-MSI</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>/img/share_logo.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
     
     <item>
       <title>New records of Rosenvingea (Scytosiphonaceae, Phaeophyceae) from the Philippines</title>
-      <link>/publication/journal-article-1-rosenvingea/</link>
+      <link>/publication/journal-article-7-rosenvingea/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article-1-rosenvingea/</guid>
+      <guid>/publication/journal-article-7-rosenvingea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence for the treatment of Talarodictyon tilesii as an older taxonomic synonym of Hydroclathrus stephanosorus (Scytosiphonaceae, Phaeophyceae)</title>
+      <link>/publication/journal-article-6-tilesii/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article-6-tilesii/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Proposals to recognize Petalonia tenella comb. nov. and to resurrect Hapterophycus canaliculatus (Scytosiphonaceae, Phaeophyceae)</title>
-      <link>/publication/journal-article-2-petalonia/</link>
+      <link>/publication/journal-article-5-petalonia/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article-2-petalonia/</guid>
+      <guid>/publication/journal-article-5-petalonia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Untangling nets: elucidating the diversity and phylogeny of the clathrate brown algal genus Hydroclathrus, with the description of a new genus Tronoella (Scytosiphonaceae, Phaeophyceae)</title>
+      <link>/publication/journal-article-4-tronoella/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article-4-tronoella/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taxonomic reassessment of the Indo-Pacific Scytosiphonaceae (Phaeophyceae): Hydroclathrus rapanuii sp. nov. and Chnoospora minima from Easter Island, with proposal of Dactylosiphon gen. nov. and Pseudochnoospora gen. nov.</title>
+      <link>/publication/journal-article-3-dactylosiphon/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article-3-dactylosiphon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer of Petalonia filiformis (Batters) Kuntze to the genus Planosiphon McDevit &amp; G.W.Saunders (Scytosiphonaceae, Phaeophyceae)</title>
+      <link>/publication/journal-article-2-planosiphon/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article-2-planosiphon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>White rot disease and epiphytism on Halymenia durvillei Bory de Saint-Vincent (Halymeniaceae, Rhodophyta) in culture</title>
+      <link>/publication/journal-article-1-halymenia-whiterot/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article-1-halymenia-whiterot/</guid>
       <description></description>
     </item>
     

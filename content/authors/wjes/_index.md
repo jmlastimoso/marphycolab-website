@@ -34,6 +34,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/wilfred-john-santia%C3%B1ez-8446a557/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-1994-4920
 superuser: true
 user_groups:
 - Principal Investigator

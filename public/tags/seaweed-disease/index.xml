@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seaweed disease | Marine Phycology Laboratory</title>
+    <link>/tags/seaweed-disease/</link>
+      <atom:link href="/tags/seaweed-disease/index.xml" rel="self" type="application/rss+xml" />
+    <description>Seaweed disease</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Marine Phycology Laboratory, UP-MSI</copyright><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/share_logo.png</url>
+      <title>Seaweed disease</title>
+      <link>/tags/seaweed-disease/</link>
+    </image>
+    
+    <item>
+      <title>White rot disease and epiphytism on Halymenia durvillei Bory de Saint-Vincent (Halymeniaceae, Rhodophyta) in culture</title>
+      <link>/publication/journal-article-1-halymenia-whiterot/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article-1-halymenia-whiterot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

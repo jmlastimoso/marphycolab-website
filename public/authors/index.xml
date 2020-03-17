@@ -7,7 +7,7 @@
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Marine Phycology Laboratory, UP-MSI</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>/img/share_logo.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
@@ -26,7 +26,7 @@
       <link>/authors/gs-steffi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/gs-steffi/</guid>
-      <description>&lt;p&gt;Steffi plans to explore the diversity and phylogeny of some members of the Order Dictyotales (e.g., fan-like and calcifying species of the genus Padina) that are found in the Bolinao-Anda reef complex, Pangasinan.&lt;/p&gt;
+      <description>&lt;p&gt;Steffi plans to explore the diversity and phylogeny of some members of the Order Dictyotales (e.g., fan-like and calcifying species of the genus &lt;em&gt;Padina&lt;/em&gt;) that are found in the Bolinao-Anda reef complex, Pangasinan.&lt;/p&gt;
 </description>
     </item>
     
@@ -71,7 +71,7 @@
       <link>/authors/gs-brix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/gs-brix/</guid>
-      <description>&lt;p&gt;Brix will look at the ecology of Sargassum-dominated communities and their responses to changes in sea surface temperatures, particularly in their reproductive seasonalities. His work is envisioned to provide insights on how to manage these ecologically- and economically-important yet vulnerable resources in light of the current exploitations and climatic changes.&lt;/p&gt;
+      <description>&lt;p&gt;Brix will look at the ecology of &lt;em&gt;Sargassum&lt;/em&gt;-dominated communities and their responses to changes in sea surface temperatures, particularly in their reproductive seasonalities. His work is envisioned to provide insights on how to manage these ecologically- and economically-important yet vulnerable resources in light of the current exploitations and climatic changes.&lt;/p&gt;
 </description>
     </item>
     
@@ -85,29 +85,106 @@
     </item>
     
     <item>
-      <title>John A. West</title>
-      <link>/authors/john-a.-west/</link>
+      <title>[John A. West](https://www.researchgate.net/profile/John_West3)</title>
+      <link>/authors/john-a.-westhttps/www.researchgate.net/profile/john_west3/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/john-a.-west/</guid>
+      <guid>/authors/john-a.-westhttps/www.researchgate.net/profile/john_west3/</guid>
       <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;We actively work on the biology of seaweeds, especially their biodiversity, systematics, life history, and reproduction. We also dabble on algal community ecology, gravitating towards understanding the ecology of canopy-forming seaweeds such as &lt;em&gt;Sargassum&lt;/em&gt;. Other researches done by our team include floristics, marine phytogeography, and molecular phylogenetics.&lt;/p&gt;
-&lt;p&gt;Moreover, we conduct applied phycological researches, with special reference to seaweed farming (i.e., mass cultivation of carrageenan-producing seaweeds &lt;em&gt;Kappaphycus&lt;/em&gt;, &lt;em&gt;Eucheuma&lt;/em&gt;, and &lt;em&gt;Halymenia&lt;/em&gt;). Currently, we are scaling up on our efforts in harnessing underutilized seaweed resources by developing novel and/or locally-adapted cultivation technologies for large-scale biomass production. This is to support the call of the seaweed industry to diversify our seaweed products.&lt;/p&gt;
-&lt;p&gt;Our team of young, budding scientists is led by one of the newest additions to the roster of faculty of MSI, &lt;strong&gt;Dr. Wilfred John E. Santiañez&lt;/strong&gt;.&lt;/p&gt;
-</description>
+      <title>[Kazuhiro Kogame](https://www2.sci.hokudai.ac.jp/faculty/en/researcher/kazuhiro-kogame)</title>
+      <link>/authors/kazuhiro-kogamehttps/www2.sci.hokudai.ac.jp/faculty/en/researcher/kazuhiro-kogame/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/kazuhiro-kogamehttps/www2.sci.hokudai.ac.jp/faculty/en/researcher/kazuhiro-kogame/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Kazuhiro Kogame</title>
-      <link>/authors/kazuhiro-kogame/</link>
+      <title>[Michael J. Wynne](https://www.researchgate.net/profile/Michael_Wynne)</title>
+      <link>/authors/michael-j.-wynnehttps/www.researchgate.net/profile/michael_wynne/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/kazuhiro-kogame/</guid>
+      <guid>/authors/michael-j.-wynnehttps/www.researchgate.net/profile/michael_wynne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Akira Kurihara](https://kyushu-u.pure.elsevier.com/en/persons/akira-kurihara)</title>
+      <link>/authors/akira-kuriharahttps/kyushu-u.pure.elsevier.com/en/persons/akira-kurihara/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/akira-kuriharahttps/kyushu-u.pure.elsevier.com/en/persons/akira-kurihara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Edna T. Ganzon-Fortes](https://www.researchgate.net/profile/Edna_Ganzon-Fortes)</title>
+      <link>/authors/edna-t.-ganzon-forteshttps/www.researchgate.net/profile/edna_ganzon-fortes/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/edna-t.-ganzon-forteshttps/www.researchgate.net/profile/edna_ganzon-fortes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Kyung Min Lee](https://www.researchgate.net/profile/Kyung_Min_Lee)</title>
+      <link>/authors/kyung-min-leehttps/www.researchgate.net/profile/kyung_min_lee/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/kyung-min-leehttps/www.researchgate.net/profile/kyung_min_lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Paul John L. Geraldino](https://www.researchgate.net/profile/Paul_John_Geraldino)</title>
+      <link>/authors/paul-john-l.-geraldinohttps/www.researchgate.net/profile/paul_john_geraldino/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/paul-john-l.-geraldinohttps/www.researchgate.net/profile/paul_john_geraldino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Shinya Uwai](https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=201801000881639597)</title>
+      <link>/authors/shinya-uwaihttps/jglobal.jst.go.jp/en/detailjglobal_id201801000881639597/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/shinya-uwaihttps/jglobal.jst.go.jp/en/detailjglobal_id201801000881639597/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Sung Min Boo](https://www.researchgate.net/profile/Sung_Min_Boo)</title>
+      <link>/authors/sung-min-boohttps/www.researchgate.net/profile/sung_min_boo/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/sung-min-boohttps/www.researchgate.net/profile/sung_min_boo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Erasmo C. Macaya](https://www.researchgate.net/profile/Erasmo_Macaya)</title>
+      <link>/authors/erasmo-c.-macayahttps/www.researchgate.net/profile/erasmo_macaya/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/erasmo-c.-macayahttps/www.researchgate.net/profile/erasmo_macaya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Ga Youn Cho](https://www.researchgate.net/profile/Ga_Youn_Cho)</title>
+      <link>/authors/ga-youn-chohttps/www.researchgate.net/profile/ga_youn_cho/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/ga-youn-chohttps/www.researchgate.net/profile/ga_youn_cho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Gavino C. Trono, Jr.](https://www.researchgate.net/profile/Gavino_Trono_Jr)</title>
+      <link>/authors/gavino-c.-trono-jr.https/www.researchgate.net/profile/gavino_trono_jr/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/gavino-c.-trono-jr.https/www.researchgate.net/profile/gavino_trono_jr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Hera Suan-Flandez](https://www.journals.upd.edu.ph/index.php/sciencediliman/search/authors/view?firstName=Hera&amp;middleName=J.&amp;lastName=Suan-Flandez&amp;affiliation=University%20of%20the%20Philippines%20Diliman&amp;country=)</title>
+      <link>/authors/hera-suan-flandezhttps/www.journals.upd.edu.ph/index.php/sciencediliman/search/authors/viewfirstnameheramiddlenamej.lastnamesuan-flandezaffiliationuniversity%20of%20the%20philippines%20dilimancountry/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/hera-suan-flandezhttps/www.journals.upd.edu.ph/index.php/sciencediliman/search/authors/viewfirstnameheramiddlenamej.lastnamesuan-flandezaffiliationuniversity%20of%20the%20philippines%20dilimancountry/</guid>
       <description></description>
     </item>
     
@@ -117,6 +194,17 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/authors/catg/</guid>
       <description>&lt;p&gt;Ace works part-time as a laboratory technician collecting for and maintaining our reference seaweed culture collections. He works full-time under at the Seaweed Biodiversity and Culture Laboratory of National Scientist Gavino C. Trono Jr., assisting in field sampling, species identification, and herbarium specimen preparations, among others.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;We actively work on the biology of seaweeds, especially their biodiversity, systematics, life history, and reproduction. We also dabble on algal community ecology, gravitating towards understanding the ecology of canopy-forming seaweeds such as &lt;em&gt;Sargassum&lt;/em&gt;. Other researches done by our team include floristics, marine phytogeography, and molecular phylogenetics.&lt;/p&gt;
+&lt;p&gt;Moreover, we conduct applied phycological researches, with special reference to seaweed farming (i.e., mass cultivation of carrageenan-producing seaweeds &lt;em&gt;Kappaphycus&lt;/em&gt;, &lt;em&gt;Eucheuma&lt;/em&gt;, and &lt;em&gt;Halymenia&lt;/em&gt;). Currently, we are scaling up on our efforts in harnessing underutilized seaweed resources by developing novel and/or locally-adapted cultivation technologies for large-scale biomass production. This is to support the call of the seaweed industry to diversify our seaweed products.&lt;/p&gt;
+&lt;p&gt;Our team of young, budding scientists is led by one of the newest additions to the roster of faculty of MSI, &lt;strong&gt;Dr. Wilfred John E. Santiañez&lt;/strong&gt;.&lt;/p&gt;
 </description>
     </item>
     

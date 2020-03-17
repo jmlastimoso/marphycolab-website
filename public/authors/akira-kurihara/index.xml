@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Akira Kurihara | Marine Phycology Laboratory</title>
+    <link>/authors/akira-kurihara/</link>
+      <atom:link href="/authors/akira-kurihara/index.xml" rel="self" type="application/rss+xml" />
+    <description>Akira Kurihara</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Marine Phycology Laboratory, UP-MSI</copyright><lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Akira Kurihara</title>
+      <link>/authors/akira-kurihara/</link>
+    </image>
+    
+    <item>
+      <title>Untangling nets: elucidating the diversity and phylogeny of the clathrate brown algal genus Hydroclathrus, with the description of a new genus Tronoella (Scytosiphonaceae, Phaeophyceae)</title>
+      <link>/publication/journal-article-4-tronoella/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article-4-tronoella/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

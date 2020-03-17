@@ -24,4 +24,4 @@ user_groups:
 - Grad Students
 ---
 
-Brix will look at the ecology of Sargassum-dominated communities and their responses to changes in sea surface temperatures, particularly in their reproductive seasonalities. His work is envisioned to provide insights on how to manage these ecologically- and economically-important yet vulnerable resources in light of the current exploitations and climatic changes.
+Brix will look at the ecology of *Sargassum*-dominated communities and their responses to changes in sea surface temperatures, particularly in their reproductive seasonalities. His work is envisioned to provide insights on how to manage these ecologically- and economically-important yet vulnerable resources in light of the current exploitations and climatic changes.

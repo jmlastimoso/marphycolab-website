@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>[Kazuhiro Kogame](https://www2.sci.hokudai.ac.jp/faculty/en/researcher/kazuhiro-kogame) | Marine Phycology Laboratory</title>
+    <link>/authors/kazuhiro-kogamehttps/www2.sci.hokudai.ac.jp/faculty/en/researcher/kazuhiro-kogame/</link>
+      <atom:link href="/authors/kazuhiro-kogamehttps/www2.sci.hokudai.ac.jp/faculty/en/researcher/kazuhiro-kogame/index.xml" rel="self" type="application/rss+xml" />
+    <description>[Kazuhiro Kogame](https://www2.sci.hokudai.ac.jp/faculty/en/researcher/kazuhiro-kogame)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Marine Phycology Laboratory, UP-MSI</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/share_logo.png</url>
+      <title>[Kazuhiro Kogame](https://www2.sci.hokudai.ac.jp/faculty/en/researcher/kazuhiro-kogame)</title>
+      <link>/authors/kazuhiro-kogamehttps/www2.sci.hokudai.ac.jp/faculty/en/researcher/kazuhiro-kogame/</link>
+    </image>
+    
+    <item>
+      <title>Proposals to recognize Petalonia tenella comb. nov. and to resurrect Hapterophycus canaliculatus (Scytosiphonaceae, Phaeophyceae)</title>
+      <link>/publication/journal-article-5-petalonia/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article-5-petalonia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Untangling nets: elucidating the diversity and phylogeny of the clathrate brown algal genus Hydroclathrus, with the description of a new genus Tronoella (Scytosiphonaceae, Phaeophyceae)</title>
+      <link>/publication/journal-article-4-tronoella/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article-4-tronoella/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taxonomic reassessment of the Indo-Pacific Scytosiphonaceae (Phaeophyceae): Hydroclathrus rapanuii sp. nov. and Chnoospora minima from Easter Island, with proposal of Dactylosiphon gen. nov. and Pseudochnoospora gen. nov.</title>
+      <link>/publication/journal-article-3-dactylosiphon/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article-3-dactylosiphon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer of Petalonia filiformis (Batters) Kuntze to the genus Planosiphon McDevit &amp; G.W.Saunders (Scytosiphonaceae, Phaeophyceae)</title>
+      <link>/publication/journal-article-2-planosiphon/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article-2-planosiphon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

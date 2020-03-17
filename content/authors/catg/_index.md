@@ -8,8 +8,6 @@ education:
     institution: ""
 email: ""
 interests: 
-- Seaweed farming
-- Seaweed culture
 name: Christian Ace T. Guerta
 organizations:
 - name: The Marine Science Institute, University of the Philippines
