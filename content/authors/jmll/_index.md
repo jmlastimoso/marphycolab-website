@@ -21,9 +21,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/John_Michael_Lastimoso
-- icon: twitter
+- icon: instagram
   icon_pack: fab
-  link: https://www.twitter.com/jmlstmso
+  link: https://www.instagram.com/jmlastimoso_/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jmlastimoso/
