@@ -24,4 +24,4 @@ user_groups:
 - Grad Students
 ---
 
-Dana seeks to contribute to the understanding of the life history and reproduction of the tropical species of red seaweed, *Halymenia durvillei*.
+Dana seeks to contribute to the understanding of the life history and reproduction of the tropical red seaweed, *Halymenia durvillei*.
