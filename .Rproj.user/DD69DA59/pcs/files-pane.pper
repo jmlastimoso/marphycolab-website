@@ -1,5 +1,5 @@
 {
-    "path" : "~/marinephycolab-website",
+    "path" : "~/marinephycolab-website/themes/hugo-academic/layouts/partials/functions",
     "sortOrder" : [
         {
             "ascending" : true,
