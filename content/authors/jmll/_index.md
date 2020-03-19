@@ -34,4 +34,4 @@ user_groups:
 - Researchers
 ---
 
-Lorem ipsum
+JM is the in-house research assistant under the Marine Phycology Laboratory.s

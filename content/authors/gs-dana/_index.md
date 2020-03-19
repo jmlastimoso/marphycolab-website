@@ -24,4 +24,4 @@ user_groups:
 - Grad Students
 ---
 
-Dana seeks to contribute to the understanding of the life history and reproduction of tropical species of green seaweeds *Ulva*. Her work is expected to complement our current efforts towards developing a local technologies for mass cultivation of *Ulva*.
+Dana seeks to contribute to the understanding of the life history and reproduction of the tropical species of red seaweed, *Halymenia durvillei*.
