@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Marine Phycology Laboratory, UP-MSI</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Marine Phycology Laboratory, UP-MSI</copyright><lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/share_logo.png</url>
       <title>Tags</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Seaweed biodiversity</title>
-      <link>/tags/seaweed-biodiversity/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/seaweed-biodiversity/</guid>
+      <title>Seaweed systematics</title>
+      <link>/tags/seaweed-systematics/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/seaweed-systematics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Seaweed systematics</title>
-      <link>/tags/seaweed-systematics/</link>
+      <title>Seaweed biodiversity</title>
+      <link>/tags/seaweed-biodiversity/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/seaweed-systematics/</guid>
+      <guid>/tags/seaweed-biodiversity/</guid>
       <description></description>
     </item>
     

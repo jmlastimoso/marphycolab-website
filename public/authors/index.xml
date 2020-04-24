@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Marine Phycology Laboratory, UP-MSI</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Marine Phycology Laboratory, UP-MSI</copyright><lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/share_logo.png</url>
       <title>Authors</title>
@@ -78,10 +78,18 @@
     <item>
       <title></title>
       <link>/authors/wjes/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/authors/wjes/</guid>
       <description>&lt;p&gt;I am interested in exploring our archipelagic coasts in order to discover new taxa and/or validate species records to unravel patterns of (global) marine/seaweed biodiversity. I also enjoy dabbling in seaweeds systematics (particularly classification and nomenclature) and molecular phylogenetics. As part of my commitment to support nation building, I also explore and develop culture technologies for underutilized seaweed species for biomass production. I envision pursuing these lines of basic and applied researches for resources management and to support emerging and existing seaweed industries especially within the tropical Pacific.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>[Michael J. Wynne](https://www.researchgate.net/profile/Michael_Wynne)</title>
+      <link>/authors/michael-j.-wynnehttps/www.researchgate.net/profile/michael_wynne/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/michael-j.-wynnehttps/www.researchgate.net/profile/michael_wynne/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -97,14 +105,6 @@
       <link>/authors/kazuhiro-kogamehttps/www2.sci.hokudai.ac.jp/faculty/en/researcher/kazuhiro-kogame/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/authors/kazuhiro-kogamehttps/www2.sci.hokudai.ac.jp/faculty/en/researcher/kazuhiro-kogame/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Michael J. Wynne](https://www.researchgate.net/profile/Michael_Wynne)</title>
-      <link>/authors/michael-j.-wynnehttps/www.researchgate.net/profile/michael_wynne/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/michael-j.-wynnehttps/www.researchgate.net/profile/michael_wynne/</guid>
       <description></description>
     </item>
     
