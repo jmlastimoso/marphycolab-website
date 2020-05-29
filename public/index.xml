@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Marine Phycology Laboratory</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Marine Phycology Laboratory, UP-MSI</copyright><lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Marine Phycology Laboratory, UP-MSI</copyright><lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/share_logo.png</url>
       <title>Marine Phycology Laboratory</title>
@@ -49,6 +49,22 @@
       <link>/project/ecwrg/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/ecwrg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptic haploid stages in the life cycle of Leathesia marina (Chordariaceae, Phaeophyceae) under in vitro culture</title>
+      <link>/publication/journal-article-10-leathesia/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article-10-leathesia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proposal of Phycocalidia Santiañez &amp; M.J.Wynne nom. nov. to replace Calidia L.-E.Yang &amp; J.Brodie nom. illeg. (Bangiales, Rhodophyta)</title>
+      <link>/publication/journal-article-9-phycocalidia/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article-9-phycocalidia/</guid>
       <description></description>
     </item>
     

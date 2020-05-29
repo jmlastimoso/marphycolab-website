@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Marine Phycology Laboratory, UP-MSI</copyright><lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Marine Phycology Laboratory, UP-MSI</copyright><lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/share_logo.png</url>
       <title>Authors</title>
@@ -78,16 +78,56 @@
     <item>
       <title></title>
       <link>/authors/wjes/</link>
-      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
       <guid>/authors/wjes/</guid>
       <description>&lt;p&gt;I am interested in exploring our archipelagic coasts in order to discover new taxa and/or validate species records to unravel patterns of (global) marine/seaweed biodiversity. I also enjoy dabbling in seaweeds systematics (particularly classification and nomenclature) and molecular phylogenetics. As part of my commitment to support nation building, I also explore and develop culture technologies for underutilized seaweed species for biomass production. I envision pursuing these lines of basic and applied researches for resources management and to support emerging and existing seaweed industries especially within the tropical Pacific.&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>[Ailen M. Poza](https://orcid.org/0000-0003-2643-6315)</title>
+      <link>/authors/ailen-m.-pozahttps/orcid.org/0000-0003-2643-6315/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/ailen-m.-pozahttps/orcid.org/0000-0003-2643-6315/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Elisa R. Parodi](https://www.researchgate.net/profile/Elisa_Parodi)</title>
+      <link>/authors/elisa-r.-parodihttps/www.researchgate.net/profile/elisa_parodi/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/elisa-r.-parodihttps/www.researchgate.net/profile/elisa_parodi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Kazuhiro Kogame](https://www2.sci.hokudai.ac.jp/faculty/en/researcher/kazuhiro-kogame)</title>
+      <link>/authors/kazuhiro-kogamehttps/www2.sci.hokudai.ac.jp/faculty/en/researcher/kazuhiro-kogame/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/kazuhiro-kogamehttps/www2.sci.hokudai.ac.jp/faculty/en/researcher/kazuhiro-kogame/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[M. Cecilia Gauna](https://www.researchgate.net/profile/Cecilia_Gauna)</title>
+      <link>/authors/m.-cecilia-gaunahttps/www.researchgate.net/profile/cecilia_gauna/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-cecilia-gaunahttps/www.researchgate.net/profile/cecilia_gauna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[M. Emilia Croce](https://www.researchgate.net/profile/Maria_Croce3)</title>
+      <link>/authors/m.-emilia-crocehttps/www.researchgate.net/profile/maria_croce3/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-emilia-crocehttps/www.researchgate.net/profile/maria_croce3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>[Michael J. Wynne](https://www.researchgate.net/profile/Michael_Wynne)</title>
       <link>/authors/michael-j.-wynnehttps/www.researchgate.net/profile/michael_wynne/</link>
-      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
       <guid>/authors/michael-j.-wynnehttps/www.researchgate.net/profile/michael_wynne/</guid>
       <description></description>
     </item>
@@ -97,14 +137,6 @@
       <link>/authors/john-a.-westhttps/www.researchgate.net/profile/john_west3/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       <guid>/authors/john-a.-westhttps/www.researchgate.net/profile/john_west3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Kazuhiro Kogame](https://www2.sci.hokudai.ac.jp/faculty/en/researcher/kazuhiro-kogame)</title>
-      <link>/authors/kazuhiro-kogamehttps/www2.sci.hokudai.ac.jp/faculty/en/researcher/kazuhiro-kogame/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/kazuhiro-kogamehttps/www2.sci.hokudai.ac.jp/faculty/en/researcher/kazuhiro-kogame/</guid>
       <description></description>
     </item>
     
