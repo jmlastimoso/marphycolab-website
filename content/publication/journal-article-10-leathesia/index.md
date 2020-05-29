@@ -24,7 +24,8 @@ publishDate: "2020-05-28T00:00:00Z"
 slides: 
 summary: 'Evaluation of the life history in culture, molecular phylogeny, & nuclear ploidy of the life cycle stages of *Leathesia marina*.'
 tags:
-- Seaweed 
+- Algal Culture
+- Seaweed Life History
 title: Cryptic haploid stages in the life cycle of Leathesia marina (Chordariaceae, Phaeophyceae) under in vitro culture 
 url_code:
 url_dataset: 
