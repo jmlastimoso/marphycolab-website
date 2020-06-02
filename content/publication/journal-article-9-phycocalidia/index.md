@@ -8,8 +8,8 @@ date:
 doi: 
 featured: true
 image:
-  caption: 'Image credit: Scanned voucher specimen of *Phycocalidia dentata* collected by Domingo Velasco in Claveria, Ilocos Norte. Photo courtesy of the University of California, Berkeley'
-  focal_point: ""
+  caption: 'Image credit: *Phycocalidia suborbiculata* (=*Porphyra suborbiculata*). Middle intertidal (Nhatrang Bay, South China Sea, Vietnam). 2001. Eduard A. Titlyanova & Tamara V. Titlyanova. **AlgaeBase**'
+  focal_point: "topleft"
   preview_only: false
 projects: []
 publication: '*Notale Algarum*, 140(28 May 2020)'

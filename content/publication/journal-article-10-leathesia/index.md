@@ -12,8 +12,8 @@ date:
 doi: "https://doi.org/10.1111/jpy.13034"
 featured: true
 image:
-  caption: 
-  focal_point: ""
+  caption: 'Image credit: *Leathesia marina*. Finavarra, Co. Clare, Ireland; MLWN. 2002. Michael Guiry. **AlgaeBase**'
+  focal_point: "topleft"
   preview_only: false
 projects: []
 publication: '*Journal of Phycology*'
