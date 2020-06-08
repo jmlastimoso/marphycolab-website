@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="{{ site.LanguageCode | default "en-us" }}">
 
+<head>
+{{ if .Data.Singular }}
+    <meta name="robots" content="noindex, nofollow">
+{{ end }}
+
 {{ partial "site_head" . }}
 <body id="top" data-spy="scroll" data-offset="70" data-target="{{ if or .IsHome (eq .Type "widget_page") }}#navbar-main{{else}}#TableOfContents{{end}}" {{ if not (.Scratch.Get "light") }}class="dark"{{end}}>
 
@@ -21,5 +26,6 @@
 
   {{ partial "citation" . }}
 
+</head>
 </body>
 </html>
