@@ -18,7 +18,7 @@ publication_types:
 - "2"
 publishDate: "2020-04-16T00:00:00Z"
 slides: 
-summary: Transfer of *iota*-carrageenan-producing seaweeds from *Eucheuma* to *Mimica* gen. nov. The name alludes to the tendency of the type species *M. arnoldii* (=*Eucheuma arnoldii*) to imitate corals such as *Acropora*.
+summary: Transfer of *iota*-carrageenan-producing seaweeds from *Eucheuma* to *Mimica* gen. nov. The name alludes to the tendency of the type species *Mimica arnoldii* (=*Eucheuma arnoldii*) to imitate corals such as *Acropora*.
 tags:
 - Seaweed systematics
 title: Establishment of Mimica gen. nov. to accommodate the anaxiferous species of the economically important red seaweed Eucheuma (Solieriaceae, Rhodophyta)
