@@ -4,7 +4,8 @@ external_link:
 image:
   caption:
   focal_point: Smart
-summary: Assessing and validating *Sargassum* species records and distribution in northern Philippines. 
+summary: Assessing and validating *Sargassum* species records and distribution in northern Philippines. Funded by the University of the Philippines System Enhanced Creative Work and Research Grant (ECWRG 2018-02-010).
+
 authors:
 - wjes
 tags:
