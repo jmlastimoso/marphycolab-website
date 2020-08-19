@@ -23,7 +23,7 @@ summary: ''
 tags:
 - Seaweed culture
 - Seaweed disease
-title: 'White rot disease and epiphytism on Halymenia durvillei Bory de Saint-Vincent (Halymeniaceae, Rhodophyta) in culture'
+title: 'White rot disease and epiphytism on *Halymenia durvillei* Bory de Saint-Vincent (Halymeniaceae, Rhodophyta) in culture'
 url_code:
 url_dataset: 
 url_pdf: https://www.researchgate.net/publication/304461264_White_rot_disease_and_epiphytism_on_Halymenia_durvillei_Bory_de_Saint-Vincent_Halymeniaceae_Rhodophyta_in_culture
