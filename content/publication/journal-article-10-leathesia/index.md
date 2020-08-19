@@ -26,7 +26,7 @@ summary: 'Evaluation of the life history in culture, molecular phylogeny, & nucl
 tags:
 - Algal Culture
 - Seaweed Life History
-title: Cryptic haploid stages in the life cycle of Leathesia marina (Chordariaceae, Phaeophyceae) under in vitro culture 
+title: Cryptic haploid stages in the life cycle of *Leathesia marina* (Chordariaceae, Phaeophyceae) under in vitro culture 
 url_code:
 url_dataset: 
 url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1111/jpy.13034
