@@ -24,4 +24,4 @@ user_groups:
 - Grad Students
 ---
 
-Steffi plans to explore the diversity and phylogeny of some members of the Order Dictyotales (e.g., fan-like and calcifying species of the genus *Padina*) that are found in the Bolinao-Anda reef complex, Pangasinan.
+Steffi plans to explore the diversity and molecular phylogeny of the brown algal genus *Dictyopteris* (Dictyotales, Phaeophyceae) that are found in the Bolinao-Anda reef complex, Pangasinan.
