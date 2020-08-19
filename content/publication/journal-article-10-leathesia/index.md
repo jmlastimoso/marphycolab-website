@@ -22,7 +22,7 @@ publication_types:
 - "2"
 publishDate: "2020-05-28T00:00:00Z"
 slides: 
-summary: 'Evaluation of the life history in culture, molecular phylogeny, & nuclear ploidy of the life cycle stages of *Leathesia marina*.'
+summary: 'Evaluation of the life history in culture, molecular phylogenetic position, and nuclear ploidy of the life cycle stages of *Leathesia marina* from the Patagonian coasts of Argentina.'
 tags:
 - Algal Culture
 - Seaweed Life History
