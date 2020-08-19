@@ -18,7 +18,7 @@ publication_types:
 - "2"
 publishDate: '2020-05-28T00:00:00Z'
 slides: 
-summary: 'Renaming of the newly segregated genus *Calidia* and its members to *Phycocalidia*'
+summary: '*Calidia*, a newly proposed genus segregated from *Pyropia*, is renamed to *Phycocalidia*.'
 tags:
 - Seaweed systematics
 title: 'Proposal of Phycocalidia Santiañez & M.J.Wynne nom. nov. to replace Calidia L.-E.Yang & J.Brodie nom. illeg. (Bangiales, Rhodophyta)'
