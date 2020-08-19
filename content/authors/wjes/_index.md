@@ -16,7 +16,7 @@ interests:
   - "Algal community ecology"
   - "Marine phytogeography"
   - "Seaweed farming"
-name: Wilfred John E. Santiañez
+name: Wilfred John E. Santiañez, Ph.D.
 organizations:
 - name: The Marine Science Institute, University of the Philippines
   url: "http://www.msi.upd.edu.ph/"
