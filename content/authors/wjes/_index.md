@@ -16,7 +16,7 @@ interests:
   - "Algal community ecology"
   - "Marine phytogeography"
   - "Seaweed farming"
-name: Wilfred John E. Santiañez
+name: Wilfred John E. Santiañez, Ph.D.
 organizations:
 - name: The Marine Science Institute, University of the Philippines
   url: "http://www.msi.upd.edu.ph/"
@@ -42,4 +42,4 @@ user_groups:
 - Principal Investigator
 ---
 
-I am interested in exploring our archipelagic coasts in order to discover new taxa and/or validate species records to unravel patterns of (global) marine/seaweed biodiversity. I also enjoy dabbling in seaweeds systematics (particularly classification and nomenclature) and molecular phylogenetics. As part of my commitment to support nation building, I also explore and develop culture technologies for underutilized seaweed species for biomass production. I envision pursuing these lines of basic and applied researches for resources management and to support emerging and existing seaweed industries especially within the tropical Pacific.
+I am interested in exploring the archipelagic coasts of the Philippines to unravel patterns of (global) marine/seaweed biodiversity. I enjoy dabbling in seaweeds systematics (i.e., taxonomy, classification, and nomenclature) and molecular phylogenetics. As part of my commitment to support nation-building, I explore and develop culture technologies for underutilized seaweed species for their socio-economic benefits, mentor students to raise experts and leaders in Philippine seaweeds research, and provide extension services such as capacity building training/workshops on (eucheumatoid) seaweed farming among others. I envision pursuing these lines of basic and applied researches for resources management and to support emerging and existing seaweed industries especially within the tropical Pacific.
