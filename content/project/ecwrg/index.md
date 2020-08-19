@@ -9,6 +9,6 @@ authors:
 - wjes
 tags:
 - Seaweed biodiversity
-title: DNA barcoding of the ***Sargassum*** (Phaeophyceae) resources of northern Philippines
+title: DNA barcoding of the *Sargassum* (Phaeophyceae) resources of northern Philippines
 weight: 5
 ---
