@@ -8,11 +8,11 @@ date:
 doi: 
 featured: true
 image:
-  caption: 'Image credit: *Phycocalidia suborbiculata* (=*Porphyra suborbiculata*). Middle intertidal (Nhatrang Bay, South China Sea, Vietnam). 2001. Eduard A. Titlyanova & Tamara V. Titlyanova. **AlgaeBase**'
+  caption: 'Image credit: *Phycocalidia suborbiculata* (=*Porphyra suborbiculata*, *Pyropia suborbiculata*). Middle intertidal (Nhatrang Bay, South China Sea, Vietnam). 2001. Eduard A. Titlyanova & Tamara V. Titlyanova. **AlgaeBase**'
   focal_point: "topleft"
   preview_only: false
 projects: []
-publication: '*Notale Algarum*, 140(28 May 2020)'
+publication: '*Notulae Algarum*, 140 (28 May 2020)'
 publication_short: 
 publication_types:
 - "2"
