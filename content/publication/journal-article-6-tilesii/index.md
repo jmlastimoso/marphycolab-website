@@ -18,7 +18,7 @@ publication_types:
 - "2"
 publishDate: '2019-01-01T00:00:00Z'
 slides: 
-summary: '*Hydroclathrus stephanosorus* is synonymized to the enigmatic seaweed *Talarodictyon tilesii* and a new combined name *Hydroclathrus tilesii* is proposed.'
+summary: '*Hydroclathrus stephanosorus* is synonymized to *Talarodictyon tilesii* and a new combined name *Hydroclathrus tilesii* is proposed.'
 tags:
 - Seaweed biodiversity
 - Seaweed systematics
