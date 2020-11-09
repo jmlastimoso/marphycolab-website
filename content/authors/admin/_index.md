@@ -24,8 +24,12 @@ superuser: true
 user_groups: ""
 ---
 
-We actively work on the biology of seaweeds, especially their biodiversity, systematics, life history, and reproduction. We also dabble on algal community ecology, gravitating towards understanding the ecology of canopy-forming seaweeds such as *Sargassum*. Other researches done by our team include floristics, marine phytogeography, and molecular phylogenetics.
+We actively work on the biology of seaweeds, especially their biodiversity, systematics, life history, and reproduction. We also dabble on algal community ecology, gravitating towards understanding the ecology of canopy-forming seaweeds such as *Sargassum*. Other research done by our team include floristics, marine phytogeography, and molecular phylogenetics.
 
-Moreover, we conduct applied phycological researches, with special reference to seaweed farming (i.e., mass cultivation of carrageenan-producing seaweeds *Kappaphycus*, *Eucheuma*, and *Halymenia*). Currently, we are scaling up on our efforts in harnessing underutilized seaweed resources by developing novel and/or locally-adapted cultivation technologies for large-scale biomass production. This is to support the call of the seaweed industry to diversify our seaweed products.
+Moreover, we conduct applied phycological research, with special reference to seaweed farming (i.e., mass cultivation of carrageenan-producing seaweeds *Kappaphycus*, *Eucheuma*, and *Halymenia*). Currently, we are scaling up on our efforts in harnessing underutilized seaweed resources by developing novel and/or locally-adapted cultivation technologies for large-scale biomass production. This is to support the call of the seaweed industry to diversify our seaweed products.
 
+<<<<<<< HEAD
 Our team of young, budding scientists is led by one of the newest additions to the roster of faculty of MSI, [**Dr. Wilfred John E. Santiañez**](https://scholar.google.com.ph/citations?user=7nHONlIAAAAJ&hl=en).
+=======
+Our team of young, budding scientists is led by one of the newest additions to the roster of faculty of the UP Marine Science Institute, **Dr. Wilfred John E. Santiañez**.
+>>>>>>> a09b811e80d32726e9ec6a81a8b29072ea649ae7
