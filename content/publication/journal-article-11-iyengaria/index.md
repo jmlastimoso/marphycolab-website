@@ -15,7 +15,7 @@ image:
   focal_point: "topleft"
   preview_only: false
 projects: []
-publication: '*Phycological Research*'
+publication: '*Phycological Research*, 68(4)'
 publication_short: 
 publication_types:
 - "2"

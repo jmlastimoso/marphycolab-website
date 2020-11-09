@@ -12,7 +12,7 @@ image:
   focal_point: "center"
   preview_only: false
 projects: []
-publication: '*Notulae Algarum*'
+publication: '*Notulae Algarum*, No. 163 (15 October 2020)'
 publication_short: 
 publication_types:
 - "2"
@@ -24,7 +24,7 @@ tags:
 title: Notes on the taxonomy of the Philippine endemic Porphyra marcosii Cordero (Bangiaceae, Rhodophyta) 
 url_code:
 url_dataset: 
-url_pdf: https://notulaealgarum.org/2020/documents/Notulae%20algarum%20No.%20163.pdf
+url_pdf: http://www.notulaealgarum.org/2020/documents/Notulae%20algarum%20No.%20140.pdf
 url_poster:
 url_project: 
 url_slides: 

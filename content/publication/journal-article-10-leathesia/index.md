@@ -16,7 +16,7 @@ image:
   focal_point: "topleft"
   preview_only: false
 projects: []
-publication: '*Journal of Phycology*'
+publication: '*Journal of Phycology*, 56(5)'
 publication_short: 
 publication_types:
 - "2"
