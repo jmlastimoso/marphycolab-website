@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Algal community ecology | Marine Phycology Laboratory</title>
+    <link>/tags/algal-community-ecology/</link>
+      <atom:link href="/tags/algal-community-ecology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Algal community ecology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Marine Phycology Laboratory, UP-MSI</copyright>
+    <image>
+      <url>/img/share_logo.png</url>
+      <title>Algal community ecology</title>
+      <link>/tags/algal-community-ecology/</link>
+    </image>
+    
+    <item>
+      <title>Status of the growth and reproductive timing of *Sargassum* in Pangasinan, Philippines</title>
+      <link>/project/nagao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/nagao/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

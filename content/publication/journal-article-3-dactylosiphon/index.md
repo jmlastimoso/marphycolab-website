@@ -10,7 +10,7 @@ authors:
 - '[Kazuhiro Kogame](https://www2.sci.hokudai.ac.jp/faculty/en/researcher/kazuhiro-kogame)'
 date: 
 doi: 10.1515/bot-2017-0089
-featured: true
+featured: false
 image:
   caption: 
   focal_point: ""

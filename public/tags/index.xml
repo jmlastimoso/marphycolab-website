@@ -5,60 +5,12 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Marine Phycology Laboratory, UP-MSI</copyright><lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Marine Phycology Laboratory, UP-MSI</copyright><lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/share_logo.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
-    
-    <item>
-      <title>Algal Culture</title>
-      <link>/tags/algal-culture/</link>
-      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/algal-culture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seaweed Life History</title>
-      <link>/tags/seaweed-life-history/</link>
-      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/seaweed-life-history/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seaweed systematics</title>
-      <link>/tags/seaweed-systematics/</link>
-      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/seaweed-systematics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seaweed biodiversity</title>
-      <link>/tags/seaweed-biodiversity/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/seaweed-biodiversity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seaweed culture</title>
-      <link>/tags/seaweed-culture/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/seaweed-culture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seaweed disease</title>
-      <link>/tags/seaweed-disease/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/seaweed-disease/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

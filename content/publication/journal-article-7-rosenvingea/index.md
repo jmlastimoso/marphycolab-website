@@ -6,7 +6,7 @@ authors:
 - '[John A. West](https://www.researchgate.net/profile/John_West3)'
 date: "August 2019"
 doi: "10.26757/pjsb2019a13001"
-featured: true
+featured: false
 image:
   caption: 'Image credit: Photo courtesy of the G.T. Velasquez Phycological Herbarium'
   focal_point: ""

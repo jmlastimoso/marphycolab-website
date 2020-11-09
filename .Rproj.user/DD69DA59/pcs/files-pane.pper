@@ -1,9 +1,9 @@
 {
-    "path" : "~/marinephycolab-website/content/authors/jmll",
-    "sortOrder" : [
+    "path": "~/marinephycolab-website/content/authors/admin",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": true
         }
     ]
 }

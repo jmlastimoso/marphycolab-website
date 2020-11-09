@@ -58,6 +58,20 @@
   </url>
   
   <url>
+    <loc>/project/nagao/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article-12-marcosii/</loc>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article-11-iyengaria/</loc>
+    <lastmod>2020-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/journal-article-10-leathesia/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
   </url>
@@ -109,87 +123,52 @@
   
   <url>
     <loc>/authors/wjes/</loc>
-    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/ailen-m.-pozahttps/orcid.org/0000-0003-2643-6315/</loc>
-    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/elisa-r.-parodihttps/www.researchgate.net/profile/elisa_parodi/</loc>
-    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/kazuhiro-kogamehttps/www2.sci.hokudai.ac.jp/faculty/en/researcher/kazuhiro-kogame/</loc>
-    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/m.-cecilia-gaunahttps/www.researchgate.net/profile/cecilia_gauna/</loc>
-    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/m.-emilia-crocehttps/www.researchgate.net/profile/maria_croce3/</loc>
-    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/michael-j.-wynnehttps/www.researchgate.net/profile/michael_wynne/</loc>
-    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/algal-culture/</loc>
-    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/</loc>
-    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/seaweed-systematics/</loc>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/algal-culture/</loc>
+    <lastmod>2020-07-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/seaweed-life-history/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/seaweed-systematics/</loc>
-    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/john-a.-westhttps/www.researchgate.net/profile/john_west3/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -205,56 +184,6 @@
   <url>
     <loc>/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/akira-kuriharahttps/kyushu-u.pure.elsevier.com/en/persons/akira-kurihara/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/edna-t.-ganzon-forteshttps/www.researchgate.net/profile/edna_ganzon-fortes/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/kyung-min-leehttps/www.researchgate.net/profile/kyung_min_lee/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/paul-john-l.-geraldinohttps/www.researchgate.net/profile/paul_john_geraldino/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/shinya-uwaihttps/jglobal.jst.go.jp/en/detailjglobal_id201801000881639597/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sung-min-boohttps/www.researchgate.net/profile/sung_min_boo/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/erasmo-c.-macayahttps/www.researchgate.net/profile/erasmo_macaya/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/ga-youn-chohttps/www.researchgate.net/profile/ga_youn_cho/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/gavino-c.-trono-jr.https/www.researchgate.net/profile/gavino_trono_jr/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/hera-suan-flandezhttps/www.journals.upd.edu.ph/index.php/sciencediliman/search/authors/viewfirstnameheramiddlenamej.lastnamesuan-flandezaffiliationuniversity%20of%20the%20philippines%20dilimancountry/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -279,6 +208,86 @@
   
   <url>
     <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/ailen-m.-pozahttps/orcid.org/0000-0003-2643-6315/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/akira-kuriharahttps/kyushu-u.pure.elsevier.com/en/persons/akira-kurihara/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/dhia-al-baderhttps/www.orcid.org/0000-0001-8799-1617/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/edna-t.-ganzon-forteshttps/www.researchgate.net/profile/edna_ganzon-fortes/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/elisa-r.-parodihttps/www.researchgate.net/profile/elisa_parodi/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/erasmo-c.-macayahttps/www.researchgate.net/profile/erasmo_macaya/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/ga-youn-chohttps/www.researchgate.net/profile/ga_youn_cho/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/gavino-c.-trono-jr.https/www.researchgate.net/profile/gavino_trono_jr/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/hera-suan-flandezhttps/www.journals.upd.edu.ph/index.php/sciencediliman/search/authors/viewfirstnameheramiddlenamej.lastnamesuan-flandezaffiliationuniversity%20of%20the%20philippines%20dilimancountry/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/john-a.-westhttps/www.researchgate.net/profile/john_west3/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/john-j.-boltonhttps/www.researchgate.net/profile/j_bolton/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/kazuhiro-kogamehttps/www2.sci.hokudai.ac.jp/faculty/en/researcher/kazuhiro-kogame/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/kyung-min-leehttps/www.researchgate.net/profile/kyung_min_lee/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/m.-cecilia-gaunahttps/www.researchgate.net/profile/cecilia_gauna/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/m.-emilia-crocehttps/www.researchgate.net/profile/maria_croce3/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/michael-j.-wynnehttps/www.researchgate.net/profile/michael_wynne/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/paul-john-l.-geraldinohttps/www.researchgate.net/profile/paul_john_geraldino/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/shinya-uwaihttps/jglobal.jst.go.jp/en/detailjglobal_id201801000881639597/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/sung-min-boohttps/www.researchgate.net/profile/sung_min_boo/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/algal-community-ecology/</loc>
   </url>
   
   <url>
