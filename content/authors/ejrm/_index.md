@@ -26,4 +26,4 @@ user_groups:
 - Researchers
 ---
 
-Eunize works on the diversity and molecular phylogeny of brown seaweeds under the Order Dictyotales. She expects to describe new species and/or report new records of seaweeds from the genus *Dictyota* and *Lobophora*, among others. Her work focuses on taxa found in northwestern Philippines.
+EJ works on the diversity and molecular phylogeny of brown seaweeds under the Order Dictyotales. She expects to describe new species and/or report new records of seaweeds from the genus *Dictyota* and *Lobophora*, among others. Her work focuses on taxa found in northwestern Philippines.

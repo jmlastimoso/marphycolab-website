@@ -24,4 +24,4 @@ user_groups:
 - Grad Students
 ---
 
-Dana seeks to contribute to the understanding of the life history and reproduction of the tropical red seaweed, *Halymenia durvillei*.
+Dana seeks to explore the taxonomy and life history in culture of a putative new delesseriacean seaweed collected from Sabina Shoal in the West Philippine Sea. Her research will bring light to the phylogenetic position and physiology of this new seaweed species.
