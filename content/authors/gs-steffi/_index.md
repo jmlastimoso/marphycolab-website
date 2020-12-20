@@ -24,4 +24,4 @@ user_groups:
 - Grad Students
 ---
 
-Steffi plans to explore the diversity and molecular phylogeny of the brown algal genus *Dictyopteris* (Dictyotales, Phaeophyceae) that are found in the Bolinao-Anda reef complex, Pangasinan.
+Steffi is exploring the diversity and molecular phylogeny of the brown algal genus *Dictyopteris* (Dictyotales, Phaeophyceae) that are found in the Bolinao-Anda reef complex, Pangasinan.
