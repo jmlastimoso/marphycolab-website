@@ -24,4 +24,4 @@ user_groups:
 - Grad Students
 ---
 
-Dana seeks to explore the taxonomy and life history in culture of a putative new delesseriacean seaweed collected from Sabina Shoal in the West Philippine Sea. Her research will bring light to the phylogenetic position and physiology of this new seaweed species.
+Dana will explore the taxonomy, molecular phylogeny, and life history in culture of a putative new delesseriacean seaweed collected from Sabina Shoal in the West Philippine Sea. Her research is expected to add new insights on the biology and diversity of tropical delesseriacean seaweeds.
