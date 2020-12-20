@@ -24,4 +24,4 @@ user_groups:
 - Grad Students
 ---
 
-Kim intends to unravel the diversity of calcifying and coenocytic green seaweeds under the genus *Halimeda*. In order to accomplish his objective, he will use an integrative approach to species delineation combining information derived from molecular sequences and geometric morphometric analyses.
+Kim intends to unravel the diversity of calcifying and coenocytic green seaweeds under the genus *Halimeda* within the Bolinao-Anda Reef Complex in Pangasinan. In order to accomplish his objective, he will use an integrative approach to species delineation combining information derived from molecular sequences and morpho-anatomical analyses.
