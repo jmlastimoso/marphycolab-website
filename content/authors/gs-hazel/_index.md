@@ -24,4 +24,4 @@ user_groups:
 - Grad Students
 ---
 
-Hazel is interested in marine biodiversity research. She is expected to work on the diversity and phylogeny of the sargassacean resources of Bolinao, Pangasinan. Her work will primarily focus on DNA barcoding of the members of the algal family Sargassaceae (excluding genus *Sargassum*) with the goal of validating species records as well as looking into the phylogenetic relationships of these species within the Order Fucales.
+Hazel will work on the diversity of the brown seaweed *Turbinaria* in the Bolinao-Anda Reef Complex, Pangasinan. She will also look into the molecular phylogenetic position and relationships of *Turbinaria*, some *Sargassum*, and *Sirophysalis* within the Order Fucales.
