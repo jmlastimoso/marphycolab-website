@@ -11,7 +11,7 @@ date:
 doi: "https://doi.org/10.1111/pre.12438"
 featured: true
 image:
-  caption: 'Image credit: *Iyengaria stellata* in a rock pool at Haga Haga, Eastern Cape, South Africa. Photo courtesy of Robert J. Anderson'
+  caption: 'Image credit: *Iyengaria stellata* in a rock pool at Haga Haga, Eastern Cape, South Africa. Photo courtesy of Robert J. Anderson.'
   focal_point: "topleft"
   preview_only: false
 projects: []
@@ -21,7 +21,7 @@ publication_types:
 - "2"
 publishDate: "2020-07-29T00:00:00Z"
 slides: 
-summary: 'Reclassification of the species under genus *Iyengaria* and the discovery of the disjunct distribution of *I. stellata* within the Indian Ocean. In addition, the alternation of heteromorphic generations of *I. stellata* was observed under culture conditions.'
+summary: 'A closer look into the taxonomy, distribution, and life history in culture of the poorly-known genus *Iyengaria*, with special reference to the generitype species *I. stellata*.'
 tags:
 - Algal Culture
 - Seaweed systematics
