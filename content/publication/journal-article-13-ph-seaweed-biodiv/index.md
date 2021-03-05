@@ -26,7 +26,7 @@ tags:
 title: Updated checklist of the benthic marine macroalgae of the Philippines 
 url_code:
 url_dataset: 
-url_pdf: http://www.notulaealgarum.org/2020/documents/Notulae%20algarum%20No.%20140.pdf
+url_pdf: https://philjournalsci.dost.gov.ph/publication/special-issues/biodiversity/104-vol-150-s1/1336-updated-checklist-of-the-benthic-marine-macroalgae-of-the-philippines
 url_poster:
 url_project: 
 url_slides: 
