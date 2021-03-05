@@ -5,7 +5,7 @@
     <link>/authors/jmll/</link>
       <atom:link href="/authors/jmll/index.xml" rel="self" type="application/rss+xml" />
     <description>Marine Phycology Laboratory</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Marine Phycology Laboratory, UP-MSI</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Marine Phycology Laboratory, UP-MSI</copyright><lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/share_logo.png</url>
       <title>Marine Phycology Laboratory</title>
@@ -25,6 +25,14 @@
       <link>/project/inhouse/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/inhouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Updated checklist of the benthic marine macroalgae of the Philippines</title>
+      <link>/publication/journal-article-13-ph-seaweed-biodiv/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article-13-ph-seaweed-biodiv/</guid>
       <description></description>
     </item>
     

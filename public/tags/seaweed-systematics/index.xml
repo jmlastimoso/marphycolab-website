@@ -5,12 +5,20 @@
     <link>/tags/seaweed-systematics/</link>
       <atom:link href="/tags/seaweed-systematics/index.xml" rel="self" type="application/rss+xml" />
     <description>Seaweed systematics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Marine Phycology Laboratory, UP-MSI</copyright><lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Marine Phycology Laboratory, UP-MSI</copyright><lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/share_logo.png</url>
       <title>Seaweed systematics</title>
       <link>/tags/seaweed-systematics/</link>
     </image>
+    
+    <item>
+      <title>Updated checklist of the benthic marine macroalgae of the Philippines</title>
+      <link>/publication/journal-article-13-ph-seaweed-biodiv/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article-13-ph-seaweed-biodiv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Notes on the taxonomy of the Philippine endemic Porphyra marcosii Cordero (Bangiaceae, Rhodophyta)</title>
