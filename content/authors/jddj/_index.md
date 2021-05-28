@@ -13,7 +13,7 @@ weight: 2
 organizations:
 - name: The Marine Science Institute, University of the Philippines
   url: "http://www.msi.upd.edu.ph/"
-role: "University Research Associate"
+role: "University Research Associate" <br> MSc in Marine Science <br> (Marine Biology) student
 social:
 - icon: researchgate
   icon_pack: ai
