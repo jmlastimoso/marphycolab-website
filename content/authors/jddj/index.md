@@ -26,4 +26,4 @@ user_groups:
 - Researchers
 ---
 
-Julius works on the works on field ecology and in vitro and land-based culture of the economically important red seaweed _Asparagopsis taxiformis_ from Bolinao, Pangasinan. 
+Julius works on the field ecology and in vitro and land-based culture of the economically important red seaweed _Asparagopsis taxiformis_ from Bolinao, Pangasinan. 
