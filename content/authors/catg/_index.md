@@ -28,4 +28,4 @@ user_groups:
 - Researchers
 ---
 
-Ace works part-time as a laboratory technician collecting for and maintaining our reference seaweed culture collections. He works full-time under at the Seaweed Biodiversity and Culture Laboratory of National Scientist Gavino C. Trono Jr., assisting in field sampling, species identification, and herbarium specimen preparations, among others.
+Ace works as a laboratory technician collecting for and maintaining our reference seaweed culture collections as well as assisting in field sampling, species identification, and herbarium specimen preparations, among others. He also works part-time under Dr. Gavino C. Trono, Jr. 
