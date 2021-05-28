@@ -5,7 +5,7 @@ bio: ""
 education:
   courses:
   - course: "BSc in Biology (Zoology), 2016"
-    institution: "University of the Philippines Los Baños, 2016"
+    institution: "University of the Philippines Los Baños"
 email: ""
 interests: ""
 name: Eunize Joy R. Milante
