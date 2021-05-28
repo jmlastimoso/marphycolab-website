@@ -12,7 +12,7 @@ name: Christian Ace T. Guerta
 organizations:
 - name: The Marine Science Institute, University of the Philippines
   url: "http://www.msi.upd.edu.ph/"
-role: Laboratory Technician <br> (*part-time*)
+role: Laboratory Technician
 social:
 - icon: envelope
   icon_pack: fas
