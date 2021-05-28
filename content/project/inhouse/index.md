@@ -8,6 +8,7 @@ summary: A closer look on the biology of microscopic (hence overlooked) brown se
 authors:
 - wjes
 - jmll
+- catg
 tags:
 - Seaweed biodiversity
 title: Biodiversity of cryptic marine brown algae
