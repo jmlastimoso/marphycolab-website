@@ -1,7 +1,7 @@
 ---
 authors:
 - wjes
-bio: "My research interests include seaweed biodiversity and systematics, seaweed molecular phylogenetics, seaweed cultivation, and coastal resources management."
+bio: "My research interests include seaweed biodiversity and systematics, seaweed molecular phylogenetics, seaweed ecology, seaweed cultivation, and coastal resources management."
 education:
   courses:
   - course: "PhD in Natural History Sciences, 2018"
