@@ -9,7 +9,7 @@ summary:  A research designed to generate knowledge on the biology, field ecolog
 
 authors:
 - wjes
-- -jddj
+- jddj
 
 tags:
 - Seaweed biodiversity
