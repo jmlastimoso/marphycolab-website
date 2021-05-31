@@ -24,7 +24,7 @@ superuser: true
 user_groups: ""
 ---
 
-We actively work on the biology of seaweeds, especially their biodiversity, systematics, life history, and reproduction. We also dabble on algal community ecology, gravitating towards understanding the ecology of canopy-forming seaweeds such as *Sargassum* as well as other ecologically and economically important seaweeds such as _Asparagopsis_, and _Halymenia_. Other research done by our team include floristics, marine phytogeography, and molecular phylogenetics.
+We actively work on the biology of seaweeds, especially their biodiversity, systematics, life history, and reproduction. We also dabble on algal community ecology, gravitating towards understanding the ecology of canopy-forming seaweeds such as *Sargassum* as well as other ecologically and economically important seaweeds such as red seaweeds _Asparagopsis_and _Halymenia_, and green seaweeds _Ulva_. Other research done by our team include floristics, marine phytogeography, and molecular phylogenetics.
 
 Moreover, we conduct applied phycological research, with special reference to seaweed farming (i.e., mass cultivation of carrageenan-producing seaweeds *Kappaphycus*, *Eucheuma*, and *Halymenia*). Currently, we are scaling up on our efforts in harnessing underutilized seaweed resources by developing novel and/or locally-adapted cultivation technologies for large-scale biomass production of economically important seaweeds such as _Ulva_ and _Asparagopsis_. This is to support the call of the seaweed industry to diversify our seaweed products.
 
