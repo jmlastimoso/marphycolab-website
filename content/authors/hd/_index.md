@@ -2,12 +2,6 @@
 authors:
 - hd
 bio: ""
-education: 
-  courses:
-  - course: ""
-    institution: ""
-email: ""
-interests: 
 name: Helen Dayao
 organizations:
 - name: The Marine Science Institute, University of the Philippines
