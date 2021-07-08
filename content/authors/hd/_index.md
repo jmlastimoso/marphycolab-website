@@ -27,4 +27,4 @@ superuser: true
 user_groups:
 - Researchers
 ---
-
+Helen is a part-time research staff of the Gregorio T. Velasquez Phycological Herbarium, the largest repository of marine algae in the tropical western Pacific. Her work involves voucher specimens preparation, cataloging, encoding specimens information, and herbarium maintenance, among others.  
