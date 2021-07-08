@@ -2,26 +2,27 @@
 authors:
 - hd
 bio: ""
-education:
+education: 
   courses:
-  - course: 
-    institution:
+  - course: ""
+    institution: ""
 email: ""
-interests: ""
+interests: 
 name: Helen Dayao
-weight: 2
 organizations:
 - name: The Marine Science Institute, University of the Philippines
   url: "http://www.msi.upd.edu.ph/"
-role: "Herbarium Staff"
+role: Herbarium Staff
 social:
-- icon: researchgate
-  icon_pack: ai
-  link: 
-- icon: linkedin
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'
+- icon: twitter
   icon_pack: fab
-  link: 
+  link: https://twitter.com/marinephycolab
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/marinephycolab/
 superuser: true
 user_groups:
 - Researchers
----
