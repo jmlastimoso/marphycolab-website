@@ -26,3 +26,4 @@ user_groups:
 - Researchers
 ---
 
+Ivan works on the (genetic) diversity and phylogeography (with special reference to populations in the West Philippine Sea) of the economically important red seaweed _Asparagopsis taxiformis_. 
