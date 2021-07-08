@@ -25,3 +25,5 @@ superuser: true
 user_groups:
 - Researchers
 ---
+
+Jesse works on the diversity and field biology of the ecologically and economically important green seaweed _Ulva_ spp. in northwestern Luzon.
