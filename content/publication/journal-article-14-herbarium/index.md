@@ -3,7 +3,6 @@ abstract: 'We present here the history and contents of one of the most important
 
 weight: 88
 authors:
-- jmll
 - wjes
 date: 
 doi: 
